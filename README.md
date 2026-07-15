@@ -49,7 +49,7 @@ O dashboard apresenta informações como:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dashboard-petroleo.git
+git clone https://github.com/seu-usuario/dashboard-analise-reserva-petroleo.git
 ```
 
 2. Instale as dependências:
