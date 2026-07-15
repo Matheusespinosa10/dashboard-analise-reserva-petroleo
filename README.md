@@ -1,6 +1,6 @@
 # dashboard-analise-reserva-petroleo
 
-# 🌍 Dashboard de Análise das Reservas Mundiais de Petróleo
+**# 🌍 Dashboard de Análise das Reservas Mundiais de Petróleo
 
 Este projeto consiste em um dashboard interativo desenvolvido em **Python** com **Streamlit**, **Pandas** e **Plotly**, com o objetivo de analisar e visualizar dados sobre as reservas mundiais de petróleo.
 
