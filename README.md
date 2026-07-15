@@ -75,6 +75,13 @@ O conjunto de dados contém informações anuais sobre as reservas mundiais de p
 * Reserva de Petróleo
 * Código ISO3
 
+## 📌 Tipo de Bloco
+
+A variável **Tipo de Bloco** classifica os países de acordo com sua participação na **Organização dos Países Exportadores de Petróleo (OPEP)**, permitindo comparar as reservas entre países membros e não membros da organização.
+
+**OPEP:** países que fazem parte da Organização dos Países Exportadores de Petróleo.
+**Não OPEP:** países que não pertencem à organização.
+
 ## 🎯 Objetivo
 
 Este projeto foi desenvolvido para aplicar conhecimentos em **Análise Exploratória de Dados (EDA)**, **pré-processamento**, **visualização de dados** e **desenvolvimento de dashboards interativos**, permitindo explorar e comparar a evolução das reservas mundiais de petróleo ao longo dos anos.
