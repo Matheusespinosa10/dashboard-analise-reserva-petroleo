@@ -77,7 +77,7 @@ if not df_atualizado.empty:
     regiao_mais_frequente = (df_atualizado.groupby('REGIÃO GEOGRÁFICA')['PAÍS'].nunique().idxmax())
     pais_maior_reserva = (df_atualizado.groupby("PAÍS")['RESERVA PETRÓLEO'].sum().idxmax())
 else:
-    qntd_num_reserva, maximo_num_reserva, regiao_mais_frequente, pais_maior_reserva = 0,0,'',''
+    qntd_reserva_mundial, maximo_num_reserva, regiao_mais_frequente, pais_maior_reserva = 0,0,'',''
 
 info1, info2, info3, info4 = st.columns(4)
 info1.metric('Quantidade Mundial de Petróleo', f'${qntd_reserva_mundial:,.3f}')
