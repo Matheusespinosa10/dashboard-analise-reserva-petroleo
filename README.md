@@ -80,6 +80,7 @@ O conjunto de dados contém informações anuais sobre as reservas mundiais de p
 A variável **Tipo de Bloco** classifica os países de acordo com sua participação na **Organização dos Países Exportadores de Petróleo (OPEP)**, permitindo comparar as reservas entre países membros e não membros da organização.
 
 **OPEP:** países que fazem parte da Organização dos Países Exportadores de Petróleo.
+
 **Não OPEP:** países que não pertencem à organização.
 
 ## 🎯 Objetivo
@@ -88,5 +89,4 @@ Este projeto foi desenvolvido para aplicar conhecimentos em **Análise Explorat�
 
 ---
 
-**Desenvolvido por Matheus Silva**
-**
+**Projeto desenvolvido por Matheus Silva**
