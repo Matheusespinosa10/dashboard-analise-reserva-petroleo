@@ -1,0 +1,571 @@
+BLOCO,REGIÃO GEOGRÁFICA,PAÍS,RESERVA PETRÓLEO,ANO,PAIS_INGLES,ISO3
+NÃO OPEP,América do Norte,Canadá,172.2,2014,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,171.512,2015,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,197.928,2016,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,197.928,2017,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,192.472,2018,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,194.085,2019,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,193.844,2020,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,193.946,2021,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,193.946,2022,Canada,CAN
+NÃO OPEP,América do Norte,Canadá,193.12,2023,Canada,CAN
+NÃO OPEP,América do Norte,Estados Unidos,39.9,2014,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,35.23,2015,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,35.213,2016,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,35.41,2017,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,47.053,2018,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,47.107,2019,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,38.212,2020,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,44.418,2021,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,59.637,2022,United States,USA
+NÃO OPEP,América do Norte,Estados Unidos,62.877,2023,United States,USA
+NÃO OPEP,América do Norte,México,9.8,2014,Mexico,MEX
+NÃO OPEP,América do Norte,México,9.711,2015,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.219,2016,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.219,2017,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.695,2018,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.01,2019,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.042,2020,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.319,2021,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.328,2022,Mexico,MEX
+NÃO OPEP,América do Norte,México,7.48,2023,Mexico,MEX
+NÃO OPEP,Américas Central e do Sul,Argentina,2.4,2014,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.395,2015,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.395,2016,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.395,2017,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.0,2018,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.0,2019,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.497,2020,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.467,2021,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.467,2022,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Argentina,2.542,2023,Argentina,ARG
+NÃO OPEP,Américas Central e do Sul,Brasil,16.2,2014,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,13.013,2015,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,12.606,2016,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,12.793,2017,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,13.241,2018,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,12.728,2019,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,11.932,2020,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,13.329,2021,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,14.856,2022,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Brasil,15.894,2023,Brazil,BRA
+NÃO OPEP,Américas Central e do Sul,Colômbia,2.4,2014,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,2.308,2015,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,2.002,2016,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,2.002,2017,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,1.767,2018,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,1.949,2019,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,2.022,2020,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,1.81,2021,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,1.81,2022,Colombia,COL
+NÃO OPEP,Américas Central e do Sul,Colômbia,1.841,2023,Colombia,COL
+OPEP,Américas Central e do Sul,Equador,8.3,2014,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2015,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2016,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2017,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2018,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2019,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2020,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2021,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2022,Ecuador,ECU
+OPEP,Américas Central e do Sul,Equador,8.273,2023,Ecuador,ECU
+NÃO OPEP,Américas Central e do Sul,Peru,1.4,2014,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,1.187,2015,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,1.187,2016,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,1.187,2017,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.978,2018,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.891,2019,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.642,2020,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.84,2021,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.84,2022,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Peru,0.656,2023,Peru,PER
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.8,2014,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.728,2015,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.243,2016,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.243,2017,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.241,2018,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.197,2019,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.241,2020,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.241,2021,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.241,2022,Trinidad and Tobago,TTO
+NÃO OPEP,Américas Central e do Sul,Trinidad e Tobago,0.241,2023,Trinidad and Tobago,TTO
+OPEP,Américas Central e do Sul,Venezuela,300.0,2014,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,300.878,2015,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,302.25,2016,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,302.809,2017,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,303.806,2018,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,303.806,2019,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,303.561,2020,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,303.468,2021,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,303.221,2022,Venezuela,VEN
+OPEP,Américas Central e do Sul,Venezuela,302.974,2023,Venezuela,VEN
+NÃO OPEP,Europa,Alemanha,0.3,2014,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.263,2015,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.262,2016,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.262,2017,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.212,2018,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.204,2019,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.131,2020,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.117,2021,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.108,2022,Germany,DEU
+NÃO OPEP,Europa,Alemanha,0.117,2023,Germany,DEU
+NÃO OPEP,Europa,Dinamarca,0.6,2014,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.491,2015,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.44,2016,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.44,2017,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.423,2018,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.423,2019,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.416,2020,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.423,2021,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.423,2022,Denmark,DNK
+NÃO OPEP,Europa,Dinamarca,0.431,2023,Denmark,DNK
+NÃO OPEP,Europa,Itália,0.6,2014,Italy,ITA
+NÃO OPEP,Europa,Itália,0.595,2015,Italy,ITA
+NÃO OPEP,Europa,Itália,0.521,2016,Italy,ITA
+NÃO OPEP,Europa,Itália,0.571,2017,Italy,ITA
+NÃO OPEP,Europa,Itália,0.554,2018,Italy,ITA
+NÃO OPEP,Europa,Itália,0.532,2019,Italy,ITA
+NÃO OPEP,Europa,Itália,0.583,2020,Italy,ITA
+NÃO OPEP,Europa,Itália,0.582,2021,Italy,ITA
+NÃO OPEP,Europa,Itália,0.576,2022,Italy,ITA
+NÃO OPEP,Europa,Itália,0.57,2023,Italy,ITA
+NÃO OPEP,Europa,Noruega,5.5,2014,Norway,NOR
+NÃO OPEP,Europa,Noruega,5.139,2015,Norway,NOR
+NÃO OPEP,Europa,Noruega,6.611,2016,Norway,NOR
+NÃO OPEP,Europa,Noruega,6.681,2017,Norway,NOR
+NÃO OPEP,Europa,Noruega,8.607,2018,Norway,NOR
+NÃO OPEP,Europa,Noruega,8.483,2019,Norway,NOR
+NÃO OPEP,Europa,Noruega,7.716,2020,Norway,NOR
+NÃO OPEP,Europa,Noruega,7.483,2021,Norway,NOR
+NÃO OPEP,Europa,Noruega,7.483,2022,Norway,NOR
+NÃO OPEP,Europa,Noruega,7.551,2023,Norway,NOR
+NÃO OPEP,Europa,Reino Unido,2.8,2014,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.618,2015,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.542,2016,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.542,2017,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.7,2018,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.5,2019,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,2.5,2020,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,1.986,2021,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,1.986,2022,United Kingdom,GBR
+NÃO OPEP,Europa,Reino Unido,1.655,2023,United Kingdom,GBR
+NÃO OPEP,Europa,Romênia,0.6,2014,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.6,2015,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.6,2016,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.6,2017,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2018,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2019,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2020,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2021,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2022,Romania,ROU
+NÃO OPEP,Europa,Romênia,0.599,2023,Romania,ROU
+NÃO OPEP,Europa,Turquia,0.3,2014,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.28,2015,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.279,2016,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.279,2017,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.321,2018,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.365,2019,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.365,2020,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.365,2021,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.365,2022,Türkiye,TUR
+NÃO OPEP,Europa,Turquia,0.499,2023,Türkiye,TUR
+NÃO OPEP,Europa,Ucrânia,0.4,2014,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.41,2015,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.408,2016,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.408,2017,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.396,2018,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.394,2019,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.394,2020,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.394,2021,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.394,2022,Ukraine,UKR
+NÃO OPEP,Europa,Ucrânia,0.394,2023,Ukraine,UKR
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,7.0,2014,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,7.0,2015,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,7.0,2016,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,7.0,2017,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2018,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2019,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2020,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2021,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2022,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Azerbaijão,6.95,2023,Azerbaijan,AZE
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.2,2014,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.205,2015,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.204,2016,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.204,2017,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2018,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2019,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2020,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2021,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2022,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Belarus,0.197,2023,Belarus,BLR
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,30.0,2014,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,30.0,2015,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,30.0,2016,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,30.0,2017,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2018,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2019,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2020,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2021,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2022,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Cazaquistão,29.799,2023,Kazakhstan,KAZ
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,80.0,2014,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,80.0,2015,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,80.0,2016,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,80.0,2017,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,105.5,2018,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,106.471,2019,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,107.799,2020,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,107.799,2021,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,107.799,2022,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Rússia,107.799,2023,Russia,RUS
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.6,2014,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.6,2015,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.6,2016,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.6,2017,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2018,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2019,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2020,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2021,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2022,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Turcomenistão,0.599,2023,Turkmenistan,TKM
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.6,2014,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.594,2015,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.594,2016,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.594,2017,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.591,2018,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.599,2019,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.591,2020,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.591,2021,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.591,2022,Uzbekistan,UZB
+NÃO OPEP,Comunidade dos Estados Independentes,Uzbequistão,0.591,2023,Uzbekistan,UZB
+OPEP,Oriente Médio,Arábia Saudita,266.6,2014,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,266.455,2015,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,266.208,2016,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,266.26,2017,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.026,2018,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.073,2019,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.082,2020,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.192,2021,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.192,2022,Saudi Arabia,SAU
+OPEP,Oriente Médio,Arábia Saudita,267.192,2023,Saudi Arabia,SAU
+NÃO OPEP,Oriente Médio,Catar,25.2,2014,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2015,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2016,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2017,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2018,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2019,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2020,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2021,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2022,Qatar,QAT
+NÃO OPEP,Oriente Médio,Catar,25.244,2023,Qatar,QAT
+OPEP,Oriente Médio,Coveite,101.5,2014,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2015,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2016,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2017,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2018,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2019,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2020,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2021,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2022,Coveitis,not found
+OPEP,Oriente Médio,Coveite,101.5,2023,Coveitis,not found
+OPEP,Oriente Médio,Emirados Árabes Unidos,97.8,2014,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,97.8,2015,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,97.8,2016,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,97.8,2017,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,97.8,2018,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,105.0,2019,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,107.0,2020,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,111.0,2021,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,113.0,2022,United Arab Emirates,ARE
+OPEP,Oriente Médio,Emirados Árabes Unidos,115.036,2023,United Arab Emirates,ARE
+NÃO OPEP,Oriente Médio,Iêmen,3.0,2014,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,3.0,2015,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,3.0,2016,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,3.0,2017,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.869,2018,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.978,2019,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.869,2020,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.978,2021,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.978,2022,Yemen,YEM
+NÃO OPEP,Oriente Médio,Iêmen,2.978,2023,Yemen,YEM
+OPEP,Oriente Médio,Irã,157.5,2014,Iran,IRN
+OPEP,Oriente Médio,Irã,158.4,2015,Iran,IRN
+OPEP,Oriente Médio,Irã,157.2,2016,Iran,IRN
+OPEP,Oriente Médio,Irã,155.6,2017,Iran,IRN
+OPEP,Oriente Médio,Irã,155.6,2018,Iran,IRN
+OPEP,Oriente Médio,Irã,208.6,2019,Iran,IRN
+OPEP,Oriente Médio,Irã,208.6,2020,Iran,IRN
+OPEP,Oriente Médio,Irã,208.6,2021,Iran,IRN
+OPEP,Oriente Médio,Irã,208.6,2022,Iran,IRN
+OPEP,Oriente Médio,Irã,208.6,2023,Iran,IRN
+OPEP,Oriente Médio,Iraque,143.1,2014,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,142.503,2015,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,148.766,2016,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,147.223,2017,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2018,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2019,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2020,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2021,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2022,Iraq,IRQ
+OPEP,Oriente Médio,Iraque,145.019,2023,Iraq,IRQ
+NÃO OPEP,Oriente Médio,Omã,5.2,2014,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.306,2015,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.306,2016,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.306,2017,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.336,2018,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.336,2019,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.336,2020,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.336,2021,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.336,2022,Oman,OMN
+NÃO OPEP,Oriente Médio,Omã,5.39,2023,Oman,OMN
+NÃO OPEP,Oriente Médio,Síria,2.5,2014,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.5,2015,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.5,2016,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.5,2017,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.65,2018,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.482,2019,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.482,2020,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.482,2021,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.482,2022,Syria,SYR
+NÃO OPEP,Oriente Médio,Síria,2.482,2023,Syria,SYR
+OPEP,África,Argélia,12.2,2014,Algeria,DZA
+OPEP,África,Argélia,12.2,2015,Algeria,DZA
+OPEP,África,Argélia,12.2,2016,Algeria,DZA
+OPEP,África,Argélia,12.2,2017,Algeria,DZA
+OPEP,África,Argélia,12.2,2018,Algeria,DZA
+OPEP,África,Argélia,12.2,2019,Algeria,DZA
+OPEP,África,Argélia,12.2,2020,Algeria,DZA
+OPEP,África,Argélia,12.2,2021,Algeria,DZA
+OPEP,África,Argélia,12.2,2022,Algeria,DZA
+OPEP,África,Argélia,12.2,2023,Algeria,DZA
+OPEP,África,Angola,8.4,2014,Angola,AGO
+OPEP,África,Angola,9.524,2015,Angola,AGO
+OPEP,África,Angola,9.523,2016,Angola,AGO
+OPEP,África,Angola,8.384,2017,Angola,AGO
+OPEP,África,Angola,8.16,2018,Angola,AGO
+OPEP,África,Angola,7.783,2019,Angola,AGO
+OPEP,África,Angola,7.231,2020,Angola,AGO
+OPEP,África,Angola,2.516,2021,Angola,AGO
+OPEP,África,Angola,2.55,2022,Angola,AGO
+OPEP,África,Angola,2.584,2023,Angola,AGO
+NÃO OPEP,África,Chade,1.5,2014,Chad,TCD
+NÃO OPEP,África,Chade,1.5,2015,Chad,TCD
+NÃO OPEP,África,Chade,1.5,2016,Chad,TCD
+NÃO OPEP,África,Chade,1.5,2017,Chad,TCD
+NÃO OPEP,África,Chade,1.577,2018,Chad,TCD
+NÃO OPEP,África,Chade,1.489,2019,Chad,TCD
+NÃO OPEP,África,Chade,1.577,2020,Chad,TCD
+NÃO OPEP,África,Chade,1.489,2021,Chad,TCD
+NÃO OPEP,África,Chade,1.489,2022,Chad,TCD
+NÃO OPEP,África,Chade,1.489,2023,Chad,TCD
+OPEP,África,Congo,1.6,2014,Congo,COG
+OPEP,África,Congo,1.6,2015,Congo,COG
+OPEP,África,Congo,1.6,2016,Congo,COG
+OPEP,África,Congo,1.6,2017,Congo,COG
+OPEP,África,Congo,2.981,2018,Congo,COG
+OPEP,África,Congo,1.947,2019,Congo,COG
+OPEP,África,Congo,1.811,2020,Congo,COG
+OPEP,África,Congo,1.811,2021,Congo,COG
+OPEP,África,Congo,1.811,2022,Congo,COG
+OPEP,África,Congo,1.811,2023,Congo,COG
+NÃO OPEP,África,Egito,4.4,2014,Egypt,EGY
+NÃO OPEP,África,Egito,4.4,2015,Egypt,EGY
+NÃO OPEP,África,Egito,4.4,2016,Egypt,EGY
+NÃO OPEP,África,Egito,4.4,2017,Egypt,EGY
+NÃO OPEP,África,Egito,3.051,2018,Egypt,EGY
+NÃO OPEP,África,Egito,3.278,2019,Egypt,EGY
+NÃO OPEP,África,Egito,3.124,2020,Egypt,EGY
+NÃO OPEP,África,Egito,3.015,2021,Egypt,EGY
+NÃO OPEP,África,Egito,3.015,2022,Egypt,EGY
+NÃO OPEP,África,Egito,3.015,2023,Egypt,EGY
+OPEP,África,Gabão,2.0,2014,Gabon,GAB
+OPEP,África,Gabão,2.0,2015,Gabon,GAB
+OPEP,África,Gabão,2.0,2016,Gabon,GAB
+OPEP,África,Gabão,2.0,2017,Gabon,GAB
+OPEP,África,Gabão,2.0,2018,Gabon,GAB
+OPEP,África,Gabão,2.0,2019,Gabon,GAB
+OPEP,África,Gabão,2.0,2020,Gabon,GAB
+OPEP,África,Gabão,2.0,2021,Gabon,GAB
+OPEP,África,Gabão,2.0,2022,Gabon,GAB
+OPEP,África,Gabão,2.0,2023,Gabon,GAB
+NÃO OPEP,África,Gana,0.7,2014,Ghana,GHA
+NÃO OPEP,África,Gana,0.684,2015,Ghana,GHA
+NÃO OPEP,África,Gana,0.681,2016,Ghana,GHA
+NÃO OPEP,África,Gana,0.681,2017,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2018,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2019,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2020,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2021,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2022,Ghana,GHA
+NÃO OPEP,África,Gana,0.657,2023,Ghana,GHA
+OPEP,África,Guiné-Equatorial,1.1,2014,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2015,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2016,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2017,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2018,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2019,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2020,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2021,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2022,Equatorial Guinea,GNQ
+OPEP,África,Guiné-Equatorial,1.1,2023,Equatorial Guinea,GNQ
+OPEP,África,Líbia,48.4,2014,Libya,LBY
+OPEP,África,Líbia,48.363,2015,Libya,LBY
+OPEP,África,Líbia,48.363,2016,Libya,LBY
+OPEP,África,Líbia,48.363,2017,Libya,LBY
+OPEP,África,Líbia,48.363,2018,Libya,LBY
+OPEP,África,Líbia,48.363,2019,Libya,LBY
+OPEP,África,Líbia,48.363,2020,Libya,LBY
+OPEP,África,Líbia,48.363,2021,Libya,LBY
+OPEP,África,Líbia,48.363,2022,Libya,LBY
+OPEP,África,Líbia,48.363,2023,Libya,LBY
+OPEP,África,Nigéria,37.4,2014,Nigeria,NGA
+OPEP,África,Nigéria,37.062,2015,Nigeria,NGA
+OPEP,África,Nigéria,37.453,2016,Nigeria,NGA
+OPEP,África,Nigéria,37.453,2017,Nigeria,NGA
+OPEP,África,Nigéria,36.972,2018,Nigeria,NGA
+OPEP,África,Nigéria,36.89,2019,Nigeria,NGA
+OPEP,África,Nigéria,36.91,2020,Nigeria,NGA
+OPEP,África,Nigéria,37.05,2021,Nigeria,NGA
+OPEP,África,Nigéria,36.967,2022,Nigeria,NGA
+OPEP,África,Nigéria,36.884,2023,Nigeria,NGA
+NÃO OPEP,África,Serra Leoa,0.0,2014,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2015,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2016,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2017,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2018,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2019,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2020,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2021,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2022,Sierra Leone,SLE
+NÃO OPEP,África,Serra Leoa,0.438,2023,Sierra Leone,SLE
+NÃO OPEP,África,Sudão,1.5,2014,Sudan,SDN
+NÃO OPEP,África,Sudão,1.5,2015,Sudan,SDN
+NÃO OPEP,África,Sudão,1.5,2016,Sudan,SDN
+NÃO OPEP,África,Sudão,1.5,2017,Sudan,SDN
+NÃO OPEP,África,Sudão,1.489,2018,Sudan,SDN
+NÃO OPEP,África,Sudão,1.489,2019,Sudan,SDN
+NÃO OPEP,África,Sudão,1.475,2020,Sudan,SDN
+NÃO OPEP,África,Sudão,1.475,2021,Sudan,SDN
+NÃO OPEP,África,Sudão,1.475,2022,Sudan,SDN
+NÃO OPEP,África,Sudão,1.475,2023,Sudan,SDN
+NÃO OPEP,África,Sudão do Sul,3.5,2014,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2015,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2016,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2017,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2018,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2019,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2020,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2021,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2022,South Sudan,SSD
+NÃO OPEP,África,Sudão do Sul,3.5,2023,South Sudan,SSD
+NÃO OPEP,África,Tunísia,0.4,2014,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.425,2015,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.425,2016,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.425,2017,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.402,2018,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.394,2019,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.402,2020,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.423,2021,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.423,2022,Tunisia,TUN
+NÃO OPEP,África,Tunísia,0.423,2023,Tunisia,TUN
+NÃO OPEP,Ásia-Pacífico,Austrália,4.0,2014,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,3.985,2015,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,3.985,2016,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,3.985,2017,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,2.46,2018,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,2.453,2019,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,1.789,2020,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,1.621,2021,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,1.621,2022,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Austrália,1.621,2023,Australia,AUS
+NÃO OPEP,Ásia-Pacífico,Brunei,1.1,2014,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.1,2015,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.1,2016,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.1,2017,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2018,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2019,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2020,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2021,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2022,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,Brunei,1.095,2023,Brunei,BRN
+NÃO OPEP,Ásia-Pacífico,China,24.5,2014,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,25.061,2015,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,25.519,2016,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,25.526,2017,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,25.927,2018,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,26.154,2019,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,26.023,2020,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,26.491,2021,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,27.003,2022,China,CHN
+NÃO OPEP,Ásia-Pacífico,China,27.889,2023,China,CHN
+NÃO OPEP,Ásia-Pacífico,Índia,5.7,2014,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.535,2015,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.409,2016,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.409,2017,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.42,2018,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.42,2019,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,4.61,2020,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,3.67,2021,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,3.572,2022,India,IND
+NÃO OPEP,Ásia-Pacífico,Índia,3.964,2023,India,IND
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.3,2014,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.23,2015,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.23,2016,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.23,2017,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.17,2018,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,3.15,2019,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,2.48,2020,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,2.44,2021,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,2.25,2022,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Indonésia,2.27,2023,Indonesia,IDN
+NÃO OPEP,Ásia-Pacífico,Malásia,5.8,2014,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,5.907,2015,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,5.907,2016,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,5.907,2017,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2018,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2019,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2020,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2021,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2022,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Malásia,3.6,2023,Malaysia,MYS
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.0,2014,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.257,2015,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.257,2016,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.257,2017,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.256,2018,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.314,2019,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.314,2020,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.314,2021,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.314,2022,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Mongólia,0.314,2023,Mongolia,MNG
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.3,2014,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.257,2015,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.256,2016,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.256,2017,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.343,2018,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.336,2019,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.533,2020,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.533,2021,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.533,2022,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Paquistão,0.441,2023,Pakistan,PAK
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.4,2014,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.396,2015,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.396,2016,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.396,2017,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.321,2018,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.299,2019,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.102,2020,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.153,2021,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.153,2022,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Tailândia,0.175,2023,Thailand,THA
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.4,2014,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.4,2015,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.4,2016,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.4,2017,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.373,2018,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.373,2019,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.344,2020,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.344,2021,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.344,2022,Vietnam,VNM
+NÃO OPEP,Ásia-Pacífico,Vietnã,4.344,2023,Vietnam,VNM
