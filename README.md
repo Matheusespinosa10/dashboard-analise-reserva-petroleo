@@ -1,6 +1,6 @@
 # dashboard-analise-reserva-petroleo
 
-**# 🌍 Dashboard de Análise das Reservas Mundiais de Petróleo
+# 🌍 Dashboard de Análise das Reservas Mundiais de Petróleo
 
 Este projeto consiste em um dashboard interativo desenvolvido em **Python** com **Streamlit**, **Pandas** e **Plotly**, com o objetivo de analisar e visualizar dados sobre as reservas mundiais de petróleo.
 
@@ -8,13 +8,13 @@ A análise é realizada **para um único ano por vez**, permitindo visualizar o 
 
 ## 📌 Funcionalidades
 
-* Filtragem por ano (base principal da análise);
-* Filtragem por tipo de bloco;
-* Filtragem por região geográfica;
-* Filtragem por país;
-* Exibição de indicadores (KPIs);
-* Gráficos interativos;
-* Mapa mundial das reservas de petróleo.
+* Filtragem por ano
+* Filtragem por tipo de bloco
+* Filtragem por região geográfica
+* Filtragem por país
+* Exibição de indicadores (KPIs)
+* Gráficos interativos
+* Mapa mundial das reservas de petróleo
 
 ## 🧹 Pré-processamento dos Dados
 
@@ -22,20 +22,20 @@ Antes da construção do dashboard, foi realizado o pré-processamento da base d
 
 As principais etapas incluíram:
 
-* Limpeza e organização dos dados;
-* Tratamento de inconsistências;
-* Padronização das informações;
-* Análise exploratória para identificar padrões e compreender a estrutura dos dados;
-* Preparação da base para a geração dos indicadores e visualizações.
+* Limpeza e organização dos dados
+* Tratamento de inconsistências
+* Padronização das informações
+* Análise exploratória para identificar padrões e compreender a estrutura dos dados
+* Preparação da base para a geração dos indicadores e visualizações
 
-## 📊 Indicadores
+## 📊 Indicadores (KPIs)
 
 O dashboard apresenta informações como:
 
-* Quantidade total de reservas de petróleo no ano selecionado;
-* Maior reserva registrada entre os países no ano selecionado;
-* Região com maior número de países produtores;
-* País com a maior reserva de petróleo no ano selecionado.
+* Quantidade total de reservas de petróleo no ano selecionado
+* Maior reserva registrada entre os países no ano selecionado
+* Região com maior número de países produtores
+* País com a maior reserva de petróleo no ano selecionado
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -68,12 +68,12 @@ streamlit run app.py
 
 O conjunto de dados contém informações anuais sobre as reservas mundiais de petróleo, incluindo:
 
-* País;
-* Região Geográfica;
-* Ano;
-* Tipo de Bloco;
-* Reserva de Petróleo;
-* Código ISO3.
+* País
+* Região Geográfica
+* Ano
+* Tipo de Bloco
+* Reserva de Petróleo
+* Código ISO3
 
 ## 🎯 Objetivo
 
@@ -81,5 +81,5 @@ Este projeto foi desenvolvido para aplicar conhecimentos em **Análise Explorat�
 
 ---
 
-**Desenvolvido por Matheus Silva Espinosa Camilo**
+**Desenvolvido por Matheus Silva**
 **
